@@ -1,4 +1,5 @@
 # CS5890-tutorial-1
+Unity Tutorial 1: Using a mock HMD
 
 This is for CS 5890/6890 Intro to Virtual Reality at the Computer Science Department at Utah State University taught by Dr. Isaac Cho. 
 
